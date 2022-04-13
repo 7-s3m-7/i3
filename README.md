@@ -6,5 +6,6 @@ edit ~/.xinitrc and replace the last 5 lines with ```exec i3```
 
 ```startx```
 
-create a new config and set the mod key to <win>
+create a new config and set the mod key to "Win"
+
 ...
