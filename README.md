@@ -16,4 +16,6 @@ hit Win+Enter
 
 ```sudo cp -r i3/Wallpapers ~/Wallpapers ; sudo cp i3/i3/config ~/.config/i3/config ; sudo cp i3/i3status/i3status.conf ~/.config/i3status/i3status.conf ; sudo cp i3/kitty/kitty.conf ~/.config/kitty/kitty.conf ; sudo cp i3/compton.conf ~/.config/compton.conf```
 
+```sudo rm -rf i3```
+
 hit Win+Shift+R
